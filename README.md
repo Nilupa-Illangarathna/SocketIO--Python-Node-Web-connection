@@ -2,6 +2,12 @@ SocketIO--Python-Node-Web-connection
 
 This project demonstrates socket communication using Python, JavaScript, and Express. The code includes a Python script to send a state change to a server using Socket.IO, an HTML file to visualize the state change in a web interface, and a Node.js server to handle the socket connections.
 
+[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/release)
+[![Node.js Version](https://img.shields.io/badge/node.js-14%2B-brightgreen.svg)](https://nodejs.org/en/download/)
+[![Express Version](https://img.shields.io/badge/express-4.x-orange.svg)](https://www.npmjs.com/package/express)
+[![Socket.IO Version](https://img.shields.io/badge/socket.io-4.x-blueviolet.svg)](https://socket.io/)
+
+
 ## Prerequisites
 
 Before running the code, make sure you have the following dependencies installed:
