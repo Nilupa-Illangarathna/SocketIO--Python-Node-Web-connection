@@ -1,6 +1,6 @@
-# One-Way Socket Communication
+SocketIO--Python-Node-Web-connection
 
-This project demonstrates one-way socket communication using Python, JavaScript, and Express. The code includes a Python script to send a state change to a server using Socket.IO, an HTML file to visualize the state change in a web interface, and a Node.js server to handle the socket connections.
+This project demonstrates socket communication using Python, JavaScript, and Express. The code includes a Python script to send a state change to a server using Socket.IO, an HTML file to visualize the state change in a web interface, and a Node.js server to handle the socket connections.
 
 ## Prerequisites
 
